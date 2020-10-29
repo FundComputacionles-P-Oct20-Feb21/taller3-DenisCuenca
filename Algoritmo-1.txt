@@ -1,1 +1,7 @@
-Resolucion de ejercicios 
+1. Inicio
+2. ingresar altura del triangulo  
+3. Ingresar base del triangulo 
+4. Multiplicar base por altura
+5. Dividir el productucto de base por altura para dos
+6. Mostrar un mensaje con el resultado
+7. Fin 
