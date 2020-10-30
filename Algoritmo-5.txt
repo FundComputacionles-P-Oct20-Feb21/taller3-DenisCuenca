@@ -1,0 +1,8 @@
+1. Inicio.
+2. Ingresar costo de teclado.
+3. Ingesar costo de CPU.
+4. Ingresar el costo de  la pantalla.
+5. Ingresar el costo del ratón.
+6. Sumar el costo de teclado, CPU, pantalla y ratón.
+7. Presentar un mensaje con el resultado de la suma.
+8. Fin.

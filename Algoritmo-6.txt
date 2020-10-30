@@ -1,0 +1,7 @@
+1. Inicio.
+2. Ingresar el monto del préstamo.
+3. Ingresar el interes mensual a cobrar.
+4. Dividir el monto del préstamo para 12 meses.
+5. Sumar el resultado de divicion y el interes mensual a cobrar.
+6. Presentar un mensaje con el resultado de la suma.
+7. Fin.

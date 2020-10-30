@@ -1,0 +1,5 @@
+1. Inicio.
+2. se prengunta el valor de la tabla que se desea presentar.
+3. Si el valor digitado por el usuario comprende esta entre 2 y 6, entonces se  prensenta una tabla que multiplique el numero digitado por los numeros del 1 al 12.  
+4. Si el valor digitado por el usuario no comprende entre 2 y 6, entonces se presenta un mensaje de error valor fuera de rango.
+5. Fin.

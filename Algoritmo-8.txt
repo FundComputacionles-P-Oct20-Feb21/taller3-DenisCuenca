@@ -1,0 +1,11 @@
+1. Inicio.
+2. Ingresar valor a pagar de netflix.
+3. Ingresar valor a pagar de youtube.
+4. Ingresar valor a pagar de dropbox.
+5. Ingresar valor a pagar de spotify.
+6. Calcular el valor total a pagar Sumando el valor a pagar de netflix, youtube, dropbox y spotify. 
+7. Ingresar edad del usuario.
+7.1. Si la edad del usuario es menor a 30 entonces, multiplicar el valor total apagar por 0.80.
+7.2. Si la edad del usuario es mayor a 30 entonces, no operar.
+8. Mostrar un mensaje con el valor total a pagar.
+9.Fin.

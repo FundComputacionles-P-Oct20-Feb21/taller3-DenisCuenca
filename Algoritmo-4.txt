@@ -1,0 +1,6 @@
+1. Inicio.
+2. Ingresar costo por minutos.
+3. Ingresar número de minutos comsumidos al mes.
+4. Multiplicar el número por minutos por minutos consumidos al mes por el costo de minutos.
+5. Presentar un mensaje con el resultado de la multiplicación.
+6. Fin. 

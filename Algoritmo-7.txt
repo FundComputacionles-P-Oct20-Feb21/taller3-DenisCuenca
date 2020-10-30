@@ -1,0 +1,10 @@
+1. Inicio.
+2. Ingresar el valor de costo de kilovatio por hora.
+3. Ingresar el número de kilovatios consumidos por mes.
+4. Convertir el número de kilovatios consumidos por mes a número de kilovatios consumidos por hora, dividiendo el número de kilovatios consumidos por mes para 720.
+5. Multiplicar el número de kilovatios  consuidos por hora por el costo por kilovatio por hora.
+6. Ingresar edad del usuario.
+6.1. Si el usuario es mayor de 65 años, multiplicar el el valor de consumo por 0.90.
+6.2. Si el usuario no es mayor de 65 años, no realizar ninguna operación.
+7. Presentar valor operado.
+8. Fin.
